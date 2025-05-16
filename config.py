@@ -26,7 +26,7 @@ OS_COLUMN = 'OS' # Standardized to OS_COLUMN
 # --- Ollama Model Configuration ---
 # Ensure these models are pulled in your Ollama instance
 EMBEDDING_MODEL='nomic-embed-text:latest'   # For generating product and query embeddings
-<<<<<<< HEAD
+
 LLM_MODEL ='llama3.2:latest'                 # For query parsing, chat, and description generation
 
 
